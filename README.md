@@ -1,1 +1,1 @@
-A bunch of projects that I have done for my game programming class.
+A bunch of cool projects that I have made in my Game Programming class.
